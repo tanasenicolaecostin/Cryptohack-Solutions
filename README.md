@@ -1,2 +1,2 @@
 # Cryptohack-Solutions
-Solutions for the Cryptohack CTF
+My solutions for the Cryptohack CTF
